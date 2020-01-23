@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3BCD5E90-A2E5-456E-A3A3-168C3818D659}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>IntuneManagement_GUI</RootNamespace>
+    <RootNamespace>Intune.Management</RootNamespace>
     <AssemblyName>IntuneManagement-GUI</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -114,6 +114,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="media\intune.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

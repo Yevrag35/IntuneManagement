@@ -1,7 +1,7 @@
-﻿<Application x:Class="IntuneManagement_GUI.App"
+﻿<Application x:Class="Intune.Management.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:IntuneManagement_GUI"
+             xmlns:local="clr-namespace:Intune.Management"
              StartupUri="Gui.xaml">
     <Application.Resources>
          

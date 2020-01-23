@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace IntuneManagement_GUI
+namespace Intune.Management
 {
     /// <summary>
     /// Interaction logic for App.xaml
